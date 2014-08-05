@@ -8,7 +8,7 @@
     "repositories": [{
         "type": "vcs",
         "url": "https://github.com/craigts/sdk-core-php"
-    }]
+    }],
     "authors": [
         {
             "name": "PayPal",
